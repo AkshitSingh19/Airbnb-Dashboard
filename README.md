@@ -1,2 +1,2 @@
 # Airbnb-Dashboard
-airbnb powerbi dashboard
+Airbnb PowerBi dashboard
